@@ -1,0 +1,38 @@
+{
+  "name": "sarkari-agent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "studio": "sanity dev",
+    "deploy:studio": "sanity deploy",
+    "import:sources": "tsx scripts/import-sources.ts",
+    "eval": "tsx scripts/run-evals.ts"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^3.0.0",
+    "@ai-sdk/mcp": "^1.0.0",
+    "@sanity/client": "^8.4.0",
+    "@sanity/context": "^2.1.0",
+    "@sanity/vision": "^6.16.0",
+    "ai": "^6.0.175",
+    "next": "^16.3.7",
+    "next-sanity": "^13.3.4",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "sanity": "^6.16.0",
+    "styled-components": "^6.1.0",
+    "tsx": "^4.20.0",
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.9.0"
+  }
+}
