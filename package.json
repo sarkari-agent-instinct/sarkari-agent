@@ -20,6 +20,7 @@
     "@sanity/context": "^2.1.0",
     "@sanity/vision": "^6.16.0",
     "ai": "^6.0.175",
+    "cheerio": "^1.2.0",
     "next": "^16.3.7",
     "next-sanity": "^13.3.4",
     "react": "^19.2.3",

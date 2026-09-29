@@ -4,3 +4,6 @@ node_modules
 .env.local
 .sanity
 *.log
+
+dist/
+*.tsbuildinfo

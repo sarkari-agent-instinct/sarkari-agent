@@ -31,7 +31,7 @@
     "domain": "CPGRAMS",
     "title": "Nodal Authority for Appeal",
     "authority": "DARPG",
-    "url": "https://www.pgportal.gov.in/Home/NodalAuthorityForAppeal",
+    "url": "https://pgportal.gov.in/Home/NodalAuthorityForAppeal",
     "type": "portal",
     "status": "current"
   },
@@ -83,24 +83,6 @@
     "status": "partly-in-force"
   },
   {
-    "id": "passport-grievance",
-    "domain": "Passport",
-    "title": "Register Feedback / Grievance",
-    "authority": "Passport Seva, Ministry of External Affairs",
-    "url": "https://www.passportindia.gov.in/psp/Grievances",
-    "type": "portal",
-    "status": "current"
-  },
-  {
-    "id": "passport-reissue",
-    "domain": "Passport",
-    "title": "Documents Required: Reissue of Passport",
-    "authority": "Passport Seva, Ministry of External Affairs",
-    "url": "https://portal2.passportindia.gov.in/AppOnlineProject/docAdvisor/reissuePassport",
-    "type": "portal",
-    "status": "current"
-  },
-  {
     "id": "nhai-complaint-policy",
     "domain": "NHAI",
     "title": "NHAI Complaint Handling Policy",
@@ -110,15 +92,6 @@
     "status": "current"
   },
   {
-    "id": "cpgrams-darpg-faq",
-    "domain": "CPGRAMS",
-    "title": "DARPG FAQ on CPGRAMS (30-day timeline)",
-    "authority": "DARPG",
-    "url": "https://darpg.gov.in/faq-cpgrams",
-    "type": "faq",
-    "status": "conflicting"
-  },
-  {
     "id": "dpdp-commencement",
     "domain": "DPDP",
     "title": "Commencement notification G.S.R. 843(E), November 13, 2025",
@@ -126,5 +99,14 @@
     "url": "https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf",
     "type": "notification",
     "status": "current"
+  },
+  {
+    "id": "cpgrams-om-2022",
+    "domain": "CPGRAMS",
+    "title": "DARPG 27 July 2022 CPGRAMS grievance redressal memorandum",
+    "authority": "DARPG",
+    "url": "https://pgportal.gov.in/Home/Preview/U3RyZW5ndGhlbmluZ29mTWFjaGluZXJ5Zm9yUmVkcmVzc2Fsb2ZQdWJsaWNHcmlldmFuY2VDUEdSQU1TLnBkZg%3D%3D",
+    "type": "guideline",
+    "status": "superseded"
   }
 ]
