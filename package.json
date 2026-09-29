@@ -14,7 +14,7 @@
     "eval": "tsx scripts/run-evals.ts"
   },
   "dependencies": {
-    "@ai-sdk/google": "^3.0.0",
+    "@ai-sdk/groq": "^3.0.71",
     "@ai-sdk/mcp": "^1.0.0",
     "@sanity/client": "^8.4.0",
     "@sanity/context": "^2.1.0",

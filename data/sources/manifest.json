@@ -108,5 +108,14 @@
     "url": "https://pgportal.gov.in/Home/Preview/U3RyZW5ndGhlbmluZ29mTWFjaGluZXJ5Zm9yUmVkcmVzc2Fsb2ZQdWJsaWNHcmlldmFuY2VDUEdSQU1TLnBkZg%3D%3D",
     "type": "guideline",
     "status": "superseded"
+  },
+  {
+    "id": "passport-application-booklet",
+    "domain": "Passport",
+    "title": "Passport Application Instruction Booklet",
+    "authority": "Ministry of External Affairs",
+    "url": "https://www.passportindia.gov.in/AppOnlineProject/pdf/ApplicationformInstructionBooklet-V3.0.pdf",
+    "type": "guideline",
+    "status": "unclear"
   }
 ]
