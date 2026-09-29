@@ -1,15 +1,150 @@
 [
- {"id":"cpgrams-01","question":"My railway complaint was closed without fixing it. What do I do next?","mustMention":["appeal","registration number"],"domains":["CPGRAMS"]},
- {"id":"cpgrams-02","question":"Can I file a CPGRAMS grievance without internet?","mustMention":["post","plain sheet"],"domains":["CPGRAMS"]},
- {"id":"cpgrams-03","question":"Is there a prescribed format for a CPGRAMS complaint?","mustMention":["no prescribed format"],"domains":["CPGRAMS"]},
- {"id":"fastag-01","question":"My FASTag was charged even though I did not cross the toll plaza.","mustMention":["issuer bank","dispute"],"domains":["FASTag"]},
- {"id":"fastag-02","question":"A toll plaza charged cash although my FASTag had enough balance.","mustMention":["1033","evidence"],"domains":["FASTag","NHAI"]},
- {"id":"fastag-03","question":"Which NETC procedural guideline version should I rely on?","mustMention":["v2.1","superseded"],"domains":["FASTag"],"expectsConflict":true},
- {"id":"dpdp-01","question":"How do I ask an app what personal data it has about me?","mustMention":["Data Fiduciary","access"],"domains":["DPDP"]},
- {"id":"dpdp-02","question":"How can I ask a company to correct my wrong personal data?","mustMention":["correction","grievance"],"domains":["DPDP"]},
- {"id":"dpdp-03","question":"Can I nominate someone to exercise my DPDP rights?","mustMention":["nominate"],"domains":["DPDP"]},
- {"id":"passport-01","question":"My passport application is stuck. Where can I complain?","mustMention":["Passport Seva","grievance"],"domains":["Passport"]},
- {"id":"passport-02","question":"What documents do I need to reissue a damaged passport?","mustMention":["reissue","documents"],"domains":["Passport"]},
- {"id":"nhai-01","question":"How do I complain about unsafe conditions on a national highway?","mustMention":["NHAI","complaint"],"domains":["NHAI"]},
- {"id":"conflict-01","question":"How long should CPGRAMS redress take?","mustMention":["conflict","source"],"domains":["CPGRAMS"],"expectsConflict":true}
+  {
+    "id": "cpgrams-01",
+    "question": "My railway complaint was closed without fixing it. What do I do next?",
+    "mustMention": [
+      "appeal",
+      "registration number"
+    ],
+    "domains": [
+      "CPGRAMS"
+    ]
+  },
+  {
+    "id": "cpgrams-02",
+    "question": "Can I file a CPGRAMS grievance without internet?",
+    "mustMention": [
+      "post",
+      "plain sheet"
+    ],
+    "domains": [
+      "CPGRAMS"
+    ]
+  },
+  {
+    "id": "cpgrams-03",
+    "question": "Is there a prescribed format for a CPGRAMS complaint?",
+    "mustMention": [
+      "no prescribed format"
+    ],
+    "domains": [
+      "CPGRAMS"
+    ]
+  },
+  {
+    "id": "fastag-01",
+    "question": "My FASTag was charged even though I did not cross the toll plaza.",
+    "mustMention": [
+      "issuer bank",
+      "dispute"
+    ],
+    "domains": [
+      "FASTag"
+    ]
+  },
+  {
+    "id": "fastag-02",
+    "question": "A toll plaza charged cash although my FASTag had enough balance.",
+    "mustMention": [
+      "1033",
+      "evidence"
+    ],
+    "domains": [
+      "FASTag",
+      "NHAI"
+    ]
+  },
+  {
+    "id": "fastag-03",
+    "question": "Which NETC procedural guideline version should I rely on?",
+    "mustMention": [
+      "v2.1",
+      "superseded"
+    ],
+    "domains": [
+      "FASTag"
+    ],
+    "expectsConflict": true
+  },
+  {
+    "id": "dpdp-01",
+    "question": "How do I ask an app what personal data it has about me?",
+    "mustMention": [
+      "not yet in force",
+      "November 2025"
+    ],
+    "domains": [
+      "DPDP"
+    ],
+    "expectsConflict": true
+  },
+  {
+    "id": "dpdp-02",
+    "question": "How can I ask a company to correct my wrong personal data?",
+    "mustMention": [
+      "not yet in force",
+      "November 2025"
+    ],
+    "domains": [
+      "DPDP"
+    ],
+    "expectsConflict": true
+  },
+  {
+    "id": "dpdp-03",
+    "question": "Can I nominate someone to exercise my DPDP rights?",
+    "mustMention": [
+      "not yet in force",
+      "November 2025"
+    ],
+    "domains": [
+      "DPDP"
+    ],
+    "expectsConflict": true
+  },
+  {
+    "id": "passport-01",
+    "question": "My passport application is stuck. Where can I complain?",
+    "mustMention": [
+      "Passport Seva",
+      "grievance"
+    ],
+    "domains": [
+      "Passport"
+    ]
+  },
+  {
+    "id": "passport-02",
+    "question": "What documents do I need to reissue a damaged passport?",
+    "mustMention": [
+      "reissue",
+      "documents"
+    ],
+    "domains": [
+      "Passport"
+    ]
+  },
+  {
+    "id": "nhai-01",
+    "question": "How do I complain about unsafe conditions on a national highway?",
+    "mustMention": [
+      "NHAI",
+      "complaint"
+    ],
+    "domains": [
+      "NHAI"
+    ]
+  },
+  {
+    "id": "conflict-01",
+    "question": "How long should CPGRAMS redress take?",
+    "mustMention": [
+      "conflict",
+      "source"
+    ],
+    "domains": [
+      "CPGRAMS"
+    ],
+    "expectsConflict": true
+  }
 ]

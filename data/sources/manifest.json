@@ -1,14 +1,130 @@
 [
- {"id":"cpgrams-guidelines","domain":"CPGRAMS","title":"Comprehensive Guidelines for Handling Public Grievances","authority":"DARPG","url":"https://pgportal.gov.in/Home/Preview/Q29tcHJlaGVuc2l2ZUd1aWRlbGluZXNGb3JIYW5kbGluZ1RoZVB1YmxpY0dyaWV2YW5jZXMucGRm","type":"guideline","status":"current"},
- {"id":"cpgrams-faq","domain":"CPGRAMS","title":"CPGRAMS Frequently Asked Questions","authority":"DARPG","url":"https://pgportal.gov.in/Home/Faq","type":"faq","status":"current"},
- {"id":"cpgrams-process","domain":"CPGRAMS","title":"CPGRAMS Redress Process Flow","authority":"DARPG","url":"https://pgportal.gov.in/Home/ProcessFlow","type":"portal","status":"current"},
- {"id":"cpgrams-appeal","domain":"CPGRAMS","title":"Nodal Authority for Appeal","authority":"DARPG","url":"https://www.pgportal.gov.in/Home/NodalAuthorityForAppeal","type":"portal","status":"current"},
- {"id":"fastag-netc-v21","domain":"FASTag","title":"NETC Procedural Guidelines v2.1","authority":"IHMCL","url":"https://ihmcl.co.in/wp-content/uploads/2025/12/NETC_PG_V2.1.pdf","type":"guideline","version":"2.1","status":"current"},
- {"id":"fastag-netc-v19","domain":"FASTag","title":"NETC Procedural Guidelines v1.9","authority":"IHMCL","url":"https://ihmcl.co.in/wp-content/uploads/2023/02/NETC_PG_V1.9_.pdf","type":"guideline","version":"1.9","status":"superseded"},
- {"id":"fastag-faq","domain":"FASTag","title":"Frequently Asked Questions on FASTag","authority":"IHMCL","url":"https://ihmcl.co.in/wp-content/uploads/2024/01/FAQ-FASTag-1-24-Jan-2022-2-1.pdf","type":"faq","status":"current"},
- {"id":"dpdp-act","domain":"DPDP","title":"Digital Personal Data Protection Act, 2023","authority":"MeitY","url":"https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf","type":"act","status":"current"},
- {"id":"dpdp-rules","domain":"DPDP","title":"Digital Personal Data Protection Rules, 2025","authority":"MeitY","url":"https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf","type":"rules","status":"current"},
- {"id":"passport-grievance","domain":"Passport","title":"Register Feedback / Grievance","authority":"Passport Seva, Ministry of External Affairs","url":"https://www.passportindia.gov.in/psp/Grievances","type":"portal","status":"current"},
- {"id":"passport-reissue","domain":"Passport","title":"Documents Required: Reissue of Passport","authority":"Passport Seva, Ministry of External Affairs","url":"https://portal2.passportindia.gov.in/AppOnlineProject/docAdvisor/reissuePassport","type":"portal","status":"current"},
- {"id":"nhai-complaint-policy","domain":"NHAI","title":"NHAI Complaint Handling Policy","authority":"NHAI","url":"https://nhai.gov.in/nhai/sites/default/files/inline-files/NHAI_Complaint_Handling_Policy_English.pdf","type":"policy","status":"current"}
+  {
+    "id": "cpgrams-guidelines",
+    "domain": "CPGRAMS",
+    "title": "Comprehensive Guidelines for Handling Public Grievances",
+    "authority": "DARPG",
+    "url": "https://pgportal.gov.in/Home/Preview/Q29tcHJlaGVuc2l2ZUd1aWRlbGluZXNGb3JIYW5kbGluZ1RoZVB1YmxpY0dyaWV2YW5jZXMucGRm",
+    "type": "guideline",
+    "status": "current"
+  },
+  {
+    "id": "cpgrams-faq",
+    "domain": "CPGRAMS",
+    "title": "CPGRAMS Frequently Asked Questions",
+    "authority": "DARPG",
+    "url": "https://pgportal.gov.in/Home/Faq",
+    "type": "faq",
+    "status": "current"
+  },
+  {
+    "id": "cpgrams-process",
+    "domain": "CPGRAMS",
+    "title": "CPGRAMS Redress Process Flow",
+    "authority": "DARPG",
+    "url": "https://pgportal.gov.in/Home/ProcessFlow",
+    "type": "portal",
+    "status": "current"
+  },
+  {
+    "id": "cpgrams-appeal",
+    "domain": "CPGRAMS",
+    "title": "Nodal Authority for Appeal",
+    "authority": "DARPG",
+    "url": "https://www.pgportal.gov.in/Home/NodalAuthorityForAppeal",
+    "type": "portal",
+    "status": "current"
+  },
+  {
+    "id": "fastag-netc-v21",
+    "domain": "FASTag",
+    "title": "NETC Procedural Guidelines v2.1",
+    "authority": "IHMCL",
+    "url": "https://ihmcl.co.in/wp-content/uploads/2025/12/NETC_PG_V2.1.pdf",
+    "type": "guideline",
+    "version": "2.1",
+    "status": "current"
+  },
+  {
+    "id": "fastag-netc-v19",
+    "domain": "FASTag",
+    "title": "NETC Procedural Guidelines v1.9",
+    "authority": "IHMCL",
+    "url": "https://ihmcl.co.in/wp-content/uploads/2023/02/NETC_PG_V1.9_.pdf",
+    "type": "guideline",
+    "version": "1.9",
+    "status": "superseded"
+  },
+  {
+    "id": "fastag-faq",
+    "domain": "FASTag",
+    "title": "Frequently Asked Questions on FASTag",
+    "authority": "IHMCL",
+    "url": "https://ihmcl.co.in/wp-content/uploads/2024/01/FAQ-FASTag-1-24-Jan-2022-2-1.pdf",
+    "type": "faq",
+    "status": "unclear"
+  },
+  {
+    "id": "dpdp-act",
+    "domain": "DPDP",
+    "title": "Digital Personal Data Protection Act, 2023",
+    "authority": "MeitY",
+    "url": "https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+    "type": "act",
+    "status": "partly-in-force"
+  },
+  {
+    "id": "dpdp-rules",
+    "domain": "DPDP",
+    "title": "Digital Personal Data Protection Rules, 2025",
+    "authority": "MeitY",
+    "url": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf",
+    "type": "rules",
+    "status": "partly-in-force"
+  },
+  {
+    "id": "passport-grievance",
+    "domain": "Passport",
+    "title": "Register Feedback / Grievance",
+    "authority": "Passport Seva, Ministry of External Affairs",
+    "url": "https://www.passportindia.gov.in/psp/Grievances",
+    "type": "portal",
+    "status": "current"
+  },
+  {
+    "id": "passport-reissue",
+    "domain": "Passport",
+    "title": "Documents Required: Reissue of Passport",
+    "authority": "Passport Seva, Ministry of External Affairs",
+    "url": "https://portal2.passportindia.gov.in/AppOnlineProject/docAdvisor/reissuePassport",
+    "type": "portal",
+    "status": "current"
+  },
+  {
+    "id": "nhai-complaint-policy",
+    "domain": "NHAI",
+    "title": "NHAI Complaint Handling Policy",
+    "authority": "NHAI",
+    "url": "https://nhai.gov.in/nhai/sites/default/files/inline-files/NHAI_Complaint_Handling_Policy_English.pdf",
+    "type": "policy",
+    "status": "current"
+  },
+  {
+    "id": "cpgrams-darpg-faq",
+    "domain": "CPGRAMS",
+    "title": "DARPG FAQ on CPGRAMS (30-day timeline)",
+    "authority": "DARPG",
+    "url": "https://darpg.gov.in/faq-cpgrams",
+    "type": "faq",
+    "status": "conflicting"
+  },
+  {
+    "id": "dpdp-commencement",
+    "domain": "DPDP",
+    "title": "Commencement notification G.S.R. 843(E), November 13, 2025",
+    "authority": "MeitY",
+    "url": "https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf",
+    "type": "notification",
+    "status": "current"
+  }
 ]
